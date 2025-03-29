@@ -1,7 +1,4 @@
 baseURL = 'https://jfox-rawtruth.github.io/'
 languageCode = 'en-us'
 title = 'Hugo Quickstart'
-theme: ["PaperMod"]
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+theme = 'PaperMod'
