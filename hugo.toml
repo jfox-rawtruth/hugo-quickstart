@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jfox-rawtruth.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
